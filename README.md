@@ -4,8 +4,8 @@
 
 ### Fullstack Developer · Node.js · Go · React.js · Clean Architecture
 
-**Membangun fondasi yang kuat —**  
-*bukan dari framework mana yang sedang tren, tapi dari pemahaman bagaimana web dan server benar-benar bekerja.*
+**Building on the right foundation —**
+*not whatever framework is trending, but a genuine understanding of how the web and server actually work.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-salsabilarh--work.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://salsabilarh-work.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-salsabila--rh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salsabila-rh)
@@ -17,38 +17,38 @@
 
 ---
 
-## 📖 Daftar Isi
+## 📖 Table of Contents
 
-- [Tentang Saya](#-tentang-saya)
+- [About Me](#-about-me)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [🎓 Dicoding Learning Path](#-dicoding-learning-path)
-- [📌 Proyek Pilihan](#-proyek-pilihan)
-- [💼 Pengalaman](#-pengalaman)
+- [🎓 Dicoding Learning Paths](#-dicoding-learning-paths)
+- [📌 Featured Projects](#-featured-projects)
+- [💼 Experience](#-experience)
 - [🏆 Highlights](#-highlights)
 - [📊 GitHub Stats](#-github-stats)
-- [🗺️ Selanjutnya](#️-selanjutnya)
+- [🗺️ What's Next](#️-whats-next)
 
 ---
 
-## 🧠 Tentang Saya
+## 🧠 About Me
 
-> Saya percaya bahwa *developer* yang baik dimulai dari fondasi yang benar.
+> I believe that good developers are built on the right foundations.
 
-Itulah mengapa saya menyelesaikan **Frontend Web** dan **Backend JavaScript Learning Path** di Dicoding secara berurutan dan menyeluruh untuk memahami *mengapa setiap lapisan teknologi web ada*.
+That is why I completed both the **Frontend Web** and **Backend JavaScript Learning Paths** at Dicoding end-to-end and in sequence — not for the certificates, but to understand *why each layer of web technology exists*.
 
-**Apa yang membedakan saya?**
+**What sets me apart:**
 
-- ✅ **Pendekatan fondasional** — Saya tidak hanya belajar framework, tapi memahami HTML semantik, DOM murni, dan arsitektur backend sebelum abstraksi.
-- ✅ **Kualitas terukur** — 100% test coverage (53 test files), CI/CD otomatis, dan validasi beban 300+ pengguna konkuren via Apache JMeter.
-- ✅ **Produksi nyata** — 2 microservice Golang di fintech live PT Praisindo, 50+ API endpoints untuk pemenang kompetisi nasional, dan 60+ API untuk sistem monitoring sekolah.
+- ✅ **Foundation-first mindset** — I did not start with frameworks. I started with semantic HTML, raw DOM manipulation, and backend architecture before touching any abstraction.
+- ✅ **Measurable quality** — 100% test coverage across 53 test files, automated CI/CD pipelines, and load validation under 300+ concurrent users via Apache JMeter.
+- ✅ **Real production experience** — 2 Golang microservices in a live fintech pipeline at PT Praisindo, 50+ API endpoints powering a national competition win, and 60+ APIs for a multi-platform school monitoring system.
 
-Saat ini saya mencari posisi **Junior/Entry-Level Backend Engineer** (atau Fullstack) di tim yang peduli pada kualitas kode, dokumentasi, dan pertumbuhan bersama.
+I am currently looking for a **Junior / Entry-Level Backend Engineer** (or Fullstack) position on a team that values code quality, documentation, and genuine growth.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & Database
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -60,7 +60,7 @@ Saat ini saya mencari posisi **Junior/Entry-Level Backend Engineer** (atau Fulls
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Arsitektur & DevOps
+### Architecture & DevOps
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B32C3?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-555?style=flat-square)
@@ -72,7 +72,7 @@ Saat ini saya mencari posisi **Junior/Entry-Level Backend Engineer** (atau Fulls
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
-### Frontend (Fondasi)
+### Frontend (Foundation)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -82,117 +82,144 @@ Saat ini saya mencari posisi **Junior/Entry-Level Backend Engineer** (atau Fulls
 
 ---
 
-## 🎓 Dicoding Learning Path
+## 🎓 Dicoding Learning Paths
 
 ### Backend JavaScript Development — *Perfect Score*
 
-| Kursus | Proyek | Topik Utama | Skor |
+| Course | Project | Core Topics | Score |
 |---|---|---|---|
-| *Back-End Developer Expert* | [Forum API](https://github.com/salsabilarh/forum-api-dicoding) | Clean Architecture (4 layer), 100% test coverage (53 files), CI/CD, Docker, JWT dual-token | ⭐ 5/5 |
-| *Fundamental Back-End JavaScript* | [OpenMusic API](https://github.com/salsabilarh/openmusic-api-dicoding) | Redis caching, RabbitMQ async, PostgreSQL 10-table schema, JWT | ⭐ 5/5 |
+| *Back-End Developer Expert* | [Forum API](https://github.com/salsabilarh/forum-api-dicoding) | Clean Architecture (4 layers), 100% test coverage (53 files), CI/CD, Docker, JWT dual-token | ⭐ 5/5 |
+| *Fundamental Back-End JavaScript* | [OpenMusic API](https://github.com/salsabilarh/openmusic-api-dicoding) | Redis caching, RabbitMQ async pipeline, PostgreSQL 10-table schema, JWT | ⭐ 5/5 |
 
-### Frontend Web Development — *Fondasi dari Statis ke Interaktif*
+### Frontend Web Development — *From Static to Interactive*
 
-| Stage | Proyek | Topik Utama | Skor |
+| Stage | Project | Core Topics | Score |
 |:---:|---|---|:---:|
 | 3 | [Bookshelf App](https://github.com/salsabilarh/bookshelf-frontend-beginner-dicoding) | DOM manipulation, localStorage, CRUD, XSS protection | ⭐ 4/5 |
-| 2 | [JS Fundamentals — 7 Asesmen](https://github.com/salsabilarh/submission-js-dicoding) | OOP, recursion, unit testing (`node:test`), functional methods | ⭐ 5/5 |
-| 1 | [Artikel HTML & CSS](https://github.com/salsabilarh/article-web-dicoding) ([Demo](https://salsabilarh.github.io/article-web-dicoding)) | HTML5 semantik, CSS Flexbox, responsive design | ⭐ 5/5 |
+| 2 | [JS Fundamentals — 7 Assessments](https://github.com/salsabilarh/submission-js-dicoding) | OOP, recursion, unit testing (`node:test`), functional methods | ⭐ 5/5 |
+| 1 | [HTML & CSS Article](https://github.com/salsabilarh/article-web-dicoding) · [Demo ↗](https://salsabilarh.github.io/article-web-dicoding) | Semantic HTML5, CSS Flexbox, responsive design | ⭐ 5/5 |
 
-> 💡 Kedua *learning path* ini menunjukkan kemampuan saya bekerja di **seluruh stack** — dari *markup statis* hingga *microservice* dan *message queue*.
-
+> 💡 Together, these two learning paths demonstrate the ability to work **across the full stack** — from static markup to microservices and message queues.
 
 ---
 
-## 📌 Proyek Pilihan
+## 📌 Featured Projects
 
 ### [Forum API](https://github.com/salsabilarh/forum-api-dicoding) — *Clean Architecture & 100% Coverage*
-> Produk akhir *Backend Developer Expert* — skor sempurna 5/5.
+> Final project for *Back-End Developer Expert* — perfect score 5/5.
 
-- **4 layer Clean Architecture** (Domains, Applications, Interfaces, Infrastructures) — setiap use case independen dari framework.
-- **100% test coverage** (53 test files) → unit, integrasi, fungsional; otomatis via GitHub Actions CI/CD.
-- **Optimasi N+1 query** pada komentar/like → dari O(n) ke O(1) roundtrip database.
-- **JWT dual-token auth + RBAC** + soft-delete pattern.
+- **4-layer Clean Architecture** (Domains, Applications, Interfaces, Infrastructures) — every use case is fully decoupled from any framework dependency.
+- **100% test coverage** across 53 test files (unit, integration, functional) — automated end-to-end via GitHub Actions CI/CD.
+- **N+1 query eliminated** on comment/like aggregation → from O(n) round trips to a single batched O(1) database query.
+- **JWT dual-token auth + RBAC** per endpoint + soft-delete pattern for content moderation.
 
 `Node.js` `Hapi.js` `PostgreSQL` `Jest` `Docker` `NGINX` `Clean Architecture`
 
-### [OpenMusic API](https://github.com/salsabilarh/openmusic-api-dicoding) — *Async & Caching*
-> Submission *Fundamental Backend JavaScript* — skor sempurna 5/5.
+---
 
-- **Redis cache layer** (30 menit TTL) → eliminasi redundant PostgreSQL load.
-- **RabbitMQ async pipeline** untuk ekspor email → 100% non-blocking request handling.
-- **Normalized 10-table schema** dengan versioned migrations.
+### [OpenMusic API](https://github.com/salsabilarh/openmusic-api-dicoding) — *Async Decoupling & Caching*
+> Final project for *Fundamental Back-End JavaScript* — perfect score 5/5.
+
+- **Redis cache layer** (30-minute TTL) — eliminates redundant PostgreSQL load on high-traffic playlist endpoints.
+- **RabbitMQ async pipeline** for email export — 100% non-blocking request handling across all export operations.
+- **Normalized 10-table schema** with versioned migrations supporting collaboration, RBAC, and full audit logging.
 
 `Node.js` `Hapi.js` `PostgreSQL` `Redis` `RabbitMQ` `JWT`
 
-### [DarusTrack](https://github.com/salsabilarh/darustrack-backend) — *Sistem Monitoring 300+ Users*
-- **60+ REST API endpoints** dengan JWT role-specific expiration & RBAC across 4 roles.
-- Validasi beban **300+ concurrent users** via Apache JMeter → zero critical failures.
+---
+
+### [DarusTrack](https://github.com/salsabilarh/darustrack-backend) — *300+ Concurrent Users Validated*
+- **60+ REST API endpoints** with JWT role-specific expiration and RBAC across 4 user roles.
+- System stability validated under **300+ concurrent users** via Apache JMeter (load, stress, spike) — zero critical failures.
 
 `Node.js` `Express.js` `MySQL` `Sequelize` `JWT` `RBAC` `Apache JMeter`
 
-### [Bookshelf App](https://github.com/salsabilarh/bookshelf-app-dicoding) — *Vanilla JS Full-Stack di Frontend*
-> Submission *Front-End Web untuk Pemula* — skor 4/5.
+---
 
-- CRUD, live search, modal edit, persistent `localStorage`, dan proteksi XSS dasar.
-- Render murni dengan DOM API, tanpa framework.
+### [Bookshelf App](https://github.com/salsabilarh/bookshelf-frontend-beginner-dicoding) — *Full-Featured Vanilla JS App*
+> Final project for *Front-End Web for Beginners* — score 4/5.
+
+- Full CRUD, live search, in-modal editing, persistent `localStorage`, and basic XSS protection.
+- Pure DOM API rendering — no framework, no abstraction layer.
 
 `JavaScript` `localStorage` `DOM API` `HTML5` `CSS3`
 
 ---
 
-## 💼 Pengalaman
+## 💼 Experience
 
-**Fullstack Developer Intern** · PT Sinergi Informatika Semen Indonesia (PT SISI)  
-`Oct 2025 – Apr 2026` | Jakarta
-- **20+ tasks** dalam 5 Agile sprints di 2 enterprise e-Procurement platforms → 100% QA approval rate, zero rework.
-- Menambal celah keamanan session → mencegah unauthorized data exposure post-logout.
+**Fullstack Developer Intern** · PT Sinergi Informatika Semen Indonesia (PT SISI)
+`Oct 2025 – Apr 2026` · Jakarta
+- Delivered **20+ high-priority tasks** across 5 Agile sprints on 2 enterprise e-Procurement platforms → **100% QA approval rate**, zero rework requests across all sprint cycles.
+- Patched a critical session-security gap — all file URLs rendered inaccessible post-logout, preventing unauthorized data exposure across both platforms.
 
-**Fullstack Developer** · HackIn Fest 2025 — 🥇 **1st Place, Service Innovation** · PT Sucofindo  
-`Jul – Oct 2025` | Remote
-- **50+ REST API endpoints** sendirian (JWT/Argon2 auth, RBAC 4 roles) dalam 3 bulan.
-- Zero critical defects saat live demo → menang 1st Place.
+`React.js · Vue.js · REST API · Postman · Agile/Scrum`
 
-**Backend Developer Intern** · PT Praisindo Teknologi  
-`Jan – Apr 2024` | Jakarta
-- **2 production microservice APIs** (Golang + Fiber + MongoDB) → live fintech compliance pipeline.
-- API contracts diadopsi sebagai **primary QA reference** oleh seluruh tim.
+---
+
+**Fullstack Developer** · HackIn Fest 2025 — 🥇 **1st Place, Service Innovation** · PT Sucofindo
+`Jul – Oct 2025` · Remote
+- Solely architected and delivered **50+ RESTful API endpoints** (JWT/Argon2 auth, RBAC across 4 roles) within a 3-month competitive window.
+- **Zero critical defects** during the live competition demo — directly securing 1st Place.
+
+`Node.js · Express.js · React.js · MySQL · JWT · Argon2 · RBAC`
+
+---
+
+**Backend Developer Intern** · PT Praisindo Teknologi
+`Jan – Apr 2024` · Jakarta
+- Developed **2 production microservice APIs** (Golang + Fiber + MongoDB) fully integrated into a live fintech compliance data pipeline within 2 Agile sprint cycles.
+- API contracts adopted as the **primary QA reference** by frontend, backend, and QA teams.
+
+`Go · Fiber · MongoDB · Microservices · Azure DevOps · Postman`
 
 ---
 
 ## 🏆 Highlights
 
-|  |  |
-|--|--|
+| | |
+|---|---|
 | 🥇 | **1st Place — HackIn Fest 2025**, Service Innovation Category (PT Sucofindo) |
-| ✅ | **Perfect Score** — Back-End JavaScript Learning Path Dicoding |
+| ✅ | **Perfect Score** — Back-End JavaScript Learning Path, Dicoding |
 | 🧪 | **100% Test Coverage** — 53 test files (unit, integration, functional) |
-| ⚡ | **300+ Concurrent Users** — divalidasi via Apache JMeter, zero critical failures |
-| 🎓 | **GPA 3.82 / 4.00** — Teknik Komputer, Universitas Diponegoro |
+| ⚡ | **300+ Concurrent Users** — validated via Apache JMeter, zero critical failures |
+| 🎓 | **GPA 3.82 / 4.00** — Computer Engineering, Universitas Diponegoro |
 | 🌐 | **TOEPS 566** — Technical documentation & cross-functional communication |
 
 ---
 
-## 🗺️ Selanjutnya
+## 📊 GitHub Stats
 
-- [x] `localStorage` & DOM manipulation murni
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsabilarh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabilarh&layout=compact&theme=default&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## 🗺️ What's Next
+
+- [x] `localStorage` & raw DOM manipulation
 - [x] Clean Architecture & 100% test coverage
 - [x] Redis caching & RabbitMQ async decoupling
-- [x] Go microservice & MongoDB
-- [ ] **React** — framework frontend pertama
-- [ ] **TypeScript** — type safety di backend & frontend
-- [ ] **Open Source contribution** — belajar dari kode orang lain
-- [ ] Mendapatkan posisi **Junior/Entry-Level Backend Engineer** di tim yang peduli pada kualitas, dokumentasi, dan growth
+- [x] Go microservices & MongoDB
+- [ ] **React** — first frontend framework, built on a solid JS foundation
+- [ ] **TypeScript** — type safety across backend and frontend
+- [ ] **Open source contribution** — learning from production-grade codebases
+- [ ] Land a **Junior / Entry-Level Backend Engineer** role on a team that values quality, documentation, and growth
 
 ---
 
 <div align="center">
 
-*"Kode yang baik bukan yang bekerja saat demo —*  
-*tapi yang tetap berdiri saat traffic spike dan tim lain perlu memahaminya."*
+*"Good code isn't what works during the demo —*
+*it's what holds up under traffic spikes when someone else needs to understand it."*
 
 <br>
 
-**Terima kasih sudah mampir — mari terhubung!** 🚀
+**Thanks for stopping by — let's connect!** 🚀
 
 </div>
