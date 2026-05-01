@@ -188,18 +188,6 @@ I am currently looking for a **Junior / Entry-Level Backend Engineer** (or Fulls
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsabilarh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabilarh&layout=compact&theme=default&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 🗺️ What's Next
 
 - [x] `localStorage` & raw DOM manipulation
