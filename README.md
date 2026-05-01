@@ -95,9 +95,9 @@ Saat ini saya mencari posisi **Junior/Entry-Level Backend Engineer** (atau Fulls
 
 | Stage | Proyek | Topik Utama | Skor |
 |:---:|---|---|:---:|
-| 3 | [Bookshelf App](https://github.com/salsabilarh/bookshelf-app-dicoding) | DOM manipulation, localStorage, CRUD, XSS protection | ⭐ 4/5 |
+| 3 | [Bookshelf App](https://github.com/salsabilarh/bookshelf-frontend-beginner-dicoding) | DOM manipulation, localStorage, CRUD, XSS protection | ⭐ 4/5 |
 | 2 | [JS Fundamentals — 7 Asesmen](https://github.com/salsabilarh/submission-js-dicoding) | OOP, recursion, unit testing (`node:test`), functional methods | ⭐ 5/5 |
-| 1 | [Artikel HTML & CSS](https://github.com/salsabilarh/submission-web-dicoding) ([Demo](https://salsabilarh.github.io/submission-web-dicoding)) | HTML5 semantik, CSS Flexbox, responsive design | ⭐ 5/5 |
+| 1 | [Artikel HTML & CSS](https://github.com/salsabilarh/article-web-dicoding) ([Demo](https://salsabilarh.github.io/article-web-dicoding)) | HTML5 semantik, CSS Flexbox, responsive design | ⭐ 5/5 |
 
 > 💡 Kedua *learning path* ini menunjukkan kemampuan saya bekerja di **seluruh stack** — dari *markup statis* hingga *microservice* dan *message queue*.
 
