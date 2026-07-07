@@ -37,8 +37,8 @@ That sequence matters: it means I understand **why** each layer exists, not just
 
 | Project | Role | Impact | Stack |
 |---|---|---|---|
-| **[SAKTI](https://github.com/salsabilarh/sakti-api-hackinfest2025)** — PT Sucofindo Service Catalog Platform | Fullstack Developer (sole technical lead) | 🥇 1st Place, Hackin Fest 2025, Zero defects in live demo, 50+ endpoints, Argon2 + JWT dual-token + RBAC 5 strategies | `Node.js` `Express` `MySQL` `Sequelize` `React` `Cloudinary` `Railway` |
-| **[DarusTrack](https://github.com/salsabilarh/darustrack-backend)** — Academic Monitoring System | Backend Developer | 60+ endpoints, 4-role RBAC, 300+ concurrent users validated (JMeter), LRU cache on auth middleware | `Node.js` `Express` `MySQL` `Sequelize` `Jest` `Redis` |
+| **[SAKTI](https://github.com/salsabilarh/sakti-app-hackinfest2025)** — PT Sucofindo Service Catalog Platform | Fullstack Developer (sole technical lead) | 🥇 1st Place, Hackin Fest 2025, Zero defects in live demo, 50+ endpoints, Argon2 + JWT dual-token + RBAC 5 strategies | `Node.js` `Express` `MySQL` `Sequelize` `React` `Cloudinary` `Railway` |
+| **[DarusTrack](https://github.com/salsabilarh/darustrack-api)** — Academic Monitoring System | Backend Developer | 60+ endpoints, 4-role RBAC, 300+ concurrent users validated (JMeter), LRU cache on auth middleware | `Node.js` `Express` `MySQL` `Sequelize` `Jest` `Redis` |
 
 ### 🎓 Dicoding Learning Path, Backend JavaScript
 
